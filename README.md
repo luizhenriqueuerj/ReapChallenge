@@ -22,4 +22,18 @@ I tried this with other temporary email sites and got the same flow. It could be
 
 ## 2️⃣ Backend Validation
 
-_Descreva aqui os casos de teste, ferramentas utilizadas e como executar os testes de backend._
+<img width="1474" height="723" alt="201" src="https://github.com/user-attachments/assets/8d255aa0-82de-4b01-a409-7e0d9457f412" />
+Working as expected.
+
+<img width="1494" height="743" alt="400-WithoutPassword" src="https://github.com/user-attachments/assets/46cf507d-1a5c-4e02-b4db-cefd81e38b78" />
+Without password.
+
+<img width="1464" height="557" alt="400-WithoutFillingPasswordRequirement" src="https://github.com/user-attachments/assets/9862cba9-e4df-4b32-b4f2-d1c8fc2d25b3" />
+Without requirement of password.
+
+<img width="1484" height="627" alt="400-WithoutLogin" src="https://github.com/user-attachments/assets/ebb6c606-8195-4999-bc98-7ea98051f04c" />
+With empty login.
+
+
+
+
