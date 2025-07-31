@@ -15,7 +15,8 @@ At another time, I received this unauthorized error from a different API, not th
 At first, it worked as expected. No API errors and the screen displayed what was expected.
 
 <img width="710" height="709" alt="WithoutEmail" src="https://github.com/user-attachments/assets/9fb7eaff-4de1-4217-ba43-56bb8f0f746b" />
-But I didn't receive any email. I tried this with other temporary email sites and got the same flow. It could be an issue with the other sites.
+But I didn't receive any email. 
+I tried this with other temporary email sites and got the same flow. It could be an issue with the other sites.
 
 
 ## 2️⃣ Backend Validation
